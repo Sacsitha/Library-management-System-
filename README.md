@@ -70,18 +70,30 @@ The system updates and displays the data accordingly.
 
 🚀 How to Run
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/library-management-system.git
+
 2️⃣ Navigate to the project folder
+
 cd library-management-system
+
 3️⃣ Compile the program
+
 gcc main.c -o library
+
 4️⃣ Run the program
+
 ./library
+
 📂 Project Structure
+
 Library-Management-System
 │
 ├── main.c        # Main program file
 ├── README.md     # Project documentation
+Login
+  User name: Admin
+  Password:Admin001
 📸 Sample Menu
 --------MENU--------
 
